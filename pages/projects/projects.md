@@ -6,4 +6,6 @@ teaser: ""
 permalink: "/projects/"
 header:
 ---
-Hopefully i'll stop being a lazy doodoo and do this thing
+## [BSc Dissertation Project](/projects/UG_Dissertation/)
+
+##### For my BSc Dissertation I used Unreal Engine to design a simple racing game with a difficulty adjustable AI to race against.

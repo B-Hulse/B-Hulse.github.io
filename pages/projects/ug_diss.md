@@ -7,7 +7,7 @@ permalink: "/projects/UG_Dissertation/"
 header:
 ---
 ### [Link to repository](https://gitlab.com/SC17BH/ug-racing-game-project/)
-### [Link to project report](https://gitlab.com/SC17BH/ug-racing-game-project/-/blob/master/Final_Report.pdf)
+#### Links to: [project report](https://gitlab.com/SC17BH/ug-racing-game-project/-/blob/master/Final_Report.pdf) & [demo video](https://www.youtube.com/watch?v=QoL6AVoDX04)
 
 # Intro
 
