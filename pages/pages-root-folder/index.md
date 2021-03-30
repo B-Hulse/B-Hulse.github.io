@@ -7,7 +7,7 @@
 layout: frontpage
 header:
 widget1:
-  title: "UG Racing Game"
+  title: "Portfolio: UG Racing Game"
   url: '/projects/UG_Dissertation/'
   image: widget-1-302x182.jpg
   text: 'For my BSc Dissertation I used Unreal Engine to design a simple racing game with a difficulty adjustable AI to race against.'
