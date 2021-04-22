@@ -26,3 +26,14 @@ The simulation uses a model that defines the cloth as a set of masses, in this c
 In th emodel, the springs have a set resting length, that is the length they are defined as in the .obj file. The spring will exert forces on the two masses attached at either end if it is not at it's resting length, either pulling them together if the spring is too long, or pushing them appart if the spring is too small. This means that any mass moving, say under gravity, would in turn pull the masses it is connected to by a spring, and they would pull all the masses they are attached to and so on. This simple model can simulate basic cloth physics with the tweaking of spring strengths and mass values.
 
 ## Kinematics
+
+[FACT CHECK THIS] The kinematic integration used in this project was just simple forward euler. With this few interacting objects moving at small speeds, the stability of a leap-frog scheme isn't needed.
+
+# SPH Fluid Sim
+
+This project was implementing a simple 2D SPH fluid model that allowed simple fluid simulation inside of a small rectangular container.
+
+## SPH
+
+SPH entails representing the fluid as a set of particles that exert forces onto eachother in order to simulate a single fluid.
+
